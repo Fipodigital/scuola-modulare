@@ -64,6 +64,3 @@ Non boccia, ma aiuta a ripartire.
 Una scuola dove ogni studente può essere se stesso e diventare ciò che sogna.  
 Una scuola che crede nel futuro. E lo costruisce, modulo dopo modulo.
 """
-
-
-index_md_path
